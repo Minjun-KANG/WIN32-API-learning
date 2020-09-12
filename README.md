@@ -1,2 +1,8 @@
 # WIN32-API-learning
-This is a learning of the WIN32 API covered in 2018. It covers printing each shape, text box, message box, keyboard, mouse, bmp copy, resource usage, getting handles from other windows, and Direct 2D.
+
+WIN32 API This is the learning of WIN32 API covered in 2018. It deals with each shape print, textbox, messagebox, keyboard, mouse, bmp copy, using resource, get handle at another window and Direct 2D.
+
+Hello, I am Minjun-KANG. This directory contains simple WIN32 API.
+Unlike other repositories, you can view the contents by file name without a special table of contents.
+
+* The file is written in Korean.
