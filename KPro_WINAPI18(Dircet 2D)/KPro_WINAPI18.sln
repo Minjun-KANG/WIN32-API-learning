@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KPro_WINAPI18", "KPro_WINAPI18\KPro_WINAPI18.vcxproj", "{DD090AA5-8ED2-461E-9E98-E4AC150415D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD090AA5-8ED2-461E-9E98-E4AC150415D9}.Debug|x64.ActiveCfg = Debug|x64
+		{DD090AA5-8ED2-461E-9E98-E4AC150415D9}.Debug|x64.Build.0 = Debug|x64
+		{DD090AA5-8ED2-461E-9E98-E4AC150415D9}.Debug|x86.ActiveCfg = Debug|Win32
+		{DD090AA5-8ED2-461E-9E98-E4AC150415D9}.Debug|x86.Build.0 = Debug|Win32
+		{DD090AA5-8ED2-461E-9E98-E4AC150415D9}.Release|x64.ActiveCfg = Release|x64
+		{DD090AA5-8ED2-461E-9E98-E4AC150415D9}.Release|x64.Build.0 = Release|x64
+		{DD090AA5-8ED2-461E-9E98-E4AC150415D9}.Release|x86.ActiveCfg = Release|Win32
+		{DD090AA5-8ED2-461E-9E98-E4AC150415D9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ED01FF4-3F2D-4997-A52F-05E99AFF1E22}
+	EndGlobalSection
+EndGlobal
