@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  KPro_WINAPI20.cpp
+  
+KPro_WINAPI20.rc(140): error RC2135: file not found: C:\Users\ansal\OneDrive\Desktop\test.bmp
+  
+  
+KPro_WINAPI20.rc(142): error RC2135: file not found: C:\Users\ansal\OneDrive\Desktop\test2.bmp
+  
+  
+KPro_WINAPI20.rc(144): error RC2135: file not found: C:\Users\ansal\OneDrive\Desktop\mainC.bmp
+  
