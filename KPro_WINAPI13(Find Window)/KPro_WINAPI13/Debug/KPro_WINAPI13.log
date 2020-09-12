@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  KPro_WINAPI13.cpp
+c:\users\ansal\onedrive\desktop\source code\c\2018\kpro_winapi13\kpro_winapi13\kpro_winapi13.cpp(32): warning C4101: 'str' :참조되지 않은 지역 변수입니다.
+  KPro_WINAPI13.vcxproj -> C:\Users\ansal\OneDrive\Desktop\Source code\C\2018\KPro_WINAPI13\Debug\KPro_WINAPI13.exe
